@@ -17,6 +17,6 @@
 
 </span>
 
-
+Of course, i'll update it usually.
 
 Hope you enjoy it!!!
