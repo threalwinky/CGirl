@@ -13,7 +13,7 @@
 
   And this is some preview of this application :
   
-<a href="https://ibb.co/z28dhPk"><img src="https://i.ibb.co/X5yHZFw/Untitled.png" alt="Untitled" border="0"></a>
+<a href="https://ibb.co/nDzQ0nY"><img src="https://i.ibb.co/vJZLBQT/Untitled.png" alt="Untitled" border="0"></a>
 
 </span>
 
