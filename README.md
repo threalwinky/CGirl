@@ -11,7 +11,7 @@
   And I created it in order to remind me and make me more effort to study.
 
 
-  And this is some preview of this application :
+  And this is some review of this application :
   
 <a href="https://ibb.co/nDzQ0nY"><img src="https://i.ibb.co/vJZLBQT/Untitled.png" alt="Untitled" border="0"></a>
 
